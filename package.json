@@ -1,0 +1,14 @@
+{
+  "name": "metamask_brute",
+  "version": "1.0.0",
+  "description": "Simple metamask brute",
+  "main": "brute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "headst1337",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/browser-passworder": "^4.1.0"
+  }
+}
